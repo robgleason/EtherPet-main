@@ -1,0 +1,11 @@
+{
+    "name": "Mysterious Egg",
+    "description": "When will it hatch?",
+    "image": "https://etherpets.xyz/the_egg.gif",
+    "attributes": [
+        {
+            "trait_type": "cuteness",
+            "value": 100
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Ether Doge",
+    "description": "The mystical Ether Doge will bring the holder luck!",
+    "image": "https://etherpets.xyz/nftpic/dogepic.png",
+    "attributes": [
+        {
+            "trait_type": "cuteness",
+            "value": 100
+        }
+    ]
+}

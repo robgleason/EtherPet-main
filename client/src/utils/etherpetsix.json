@@ -1,0 +1,11 @@
+{
+    "name": "Ether Unicorn",
+    "description": "The Ether Unicorn is rarest of all!!",
+    "image": "https://etherpets.xyz/nftpic/etherunicorn.png",
+    "attributes": [
+        {
+            "trait_type": "cuteness",
+            "value": 100
+        }
+    ]
+}

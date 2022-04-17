@@ -1,0 +1,11 @@
+{
+    "name": "Mysterious Egg",
+    "description": "When is it going to hatch? This is ether egg!!!",
+    "image": "https://etherpets.xyz/fishone.gif",
+    "attributes": [
+        {
+            "trait_type": "cuteness",
+            "value": 100
+        }
+    ]
+}

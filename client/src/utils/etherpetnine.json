@@ -1,0 +1,11 @@
+{
+    "name": "Ether Bird",
+    "description": "Ether Bird has the power to heal!!",
+    "image": "https://etherpets.xyz/nftpic/etherbird.png",
+    "attributes": [
+        {
+            "trait_type": "cuteness",
+            "value": 100
+        }
+    ]
+}

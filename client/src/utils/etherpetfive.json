@@ -1,0 +1,11 @@
+{
+    "name": "Ether Frog",
+    "description": "The Ether Frog knows all!!",
+    "image": "https://etherpets.xyz/nftpic/etherfrog.png",
+    "attributes": [
+        {
+            "trait_type": "cuteness",
+            "value": 100
+        }
+    ]
+}

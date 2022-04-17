@@ -1,0 +1,11 @@
+{
+    "name": "Ether Cat",
+    "description": "A Mysterious Ether Cat",
+    "image": "https://etherpets.xyz/nftpic/ethercat.png",
+    "attributes": [
+        {
+            "trait_type": "cuteness",
+            "value": 100
+        }
+    ]
+}
